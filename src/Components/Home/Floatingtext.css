@@ -1,0 +1,29 @@
+#shop {
+  text-align: center;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 52px;
+  color: #121212;
+  margin-top: 80px;
+  margin-bottom: -60px;
+}
+
+#pc {
+  text-align: center;
+  margin-top: 80px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 29px;
+  color: rgba(18, 18, 18, 0.75);
+  margin-bottom: 50px;
+}
+
+#pc + p {
+  text-align: center;
+  margin-top: 80px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 29px;
+  color: rgba(18, 18, 18, 0.75);
+  margin-bottom: 50px;
+}

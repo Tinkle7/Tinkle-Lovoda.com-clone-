@@ -1,0 +1,34 @@
+#main_container2 {
+  width: 70%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 250px);
+  justify-content: center;
+  gap: 5px;
+  cursor: pointer;
+}
+
+#image_container2 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+#image_container2 > img {
+  width: 100%;
+}
+
+#Grid_button {
+  display: block;
+  width: 20%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 120px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 18px;
+  color: blue;
+  text-decoration: underline;
+}

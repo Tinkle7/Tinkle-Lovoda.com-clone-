@@ -1,0 +1,18 @@
+#main_container1 {
+  width: 75%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  cursor: pointer;
+}
+
+#image_container > img {
+  width: 100%;
+}
+
+#heading {
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,21 @@
+// intial commit //
+git init 
+git add.
+git commit -m "first commit"
+git remote add origin https://github.com/Tinkle7/celestial-star-9719.git
+git remote set-url origin https://Tinkle7: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@github.com/Tinkle7/celestial-star-9719.git
+git push --set-upstream origin master
+
+//user//
+Tinkle7
+
+//Token//
+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   (30-days)
+
+//update//
+git add .
+git commit -m "first commit"
+git push
+
+//travel between branch//
+git checkout {branch-name} 

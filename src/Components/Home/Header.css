@@ -1,0 +1,45 @@
+#header_img {
+  background-color: rgba(96, 95, 94, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#header_img > img {
+  width: 100%;
+  opacity: 0.5;
+}
+
+#float_text {
+  text-align: center;
+  position: relative;
+  bottom: 240px;
+}
+
+#text_container {
+  font-size: 52px;
+  line-height: 68px;
+  color: white;
+  font-weight: 400;
+}
+
+#para_container {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 29px;
+  color: rgb(255, 255, 255, 0.75);
+  margin-top: -25px;
+}
+
+#button_container {
+  background-color: transparent;
+  padding: 14px 35px;
+  border: 1px solid white;
+  border-radius: 1px;
+  font-size: 14px;
+  transition: transform 0.2s;
+}
+
+#link {
+  color: white;
+  text-decoration: none;
+}
